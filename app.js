@@ -28,4 +28,4 @@ app.get('/', (req, res) => {
 });
 
 const PORT = 3000;
-server.listen(PORT, '0.0.0.0');
+server.listen(PORT);
